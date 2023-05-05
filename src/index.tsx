@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import NHLStats from './NHLStats';
 import reportWebVitals from './reportWebVitals';
+import { NHLStats } from './NHLStats';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
