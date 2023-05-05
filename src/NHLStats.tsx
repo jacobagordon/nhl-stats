@@ -1,9 +1,9 @@
 import './App.css';
-import { GameScoreboard } from './gameScores';
+import { GameScoreboardHeaader } from './gameScores';
 
 export function NHLStats() {
   return (
-    <GameScoreboard/>
+    <GameScoreboardHeaader/>
   );
 }
 

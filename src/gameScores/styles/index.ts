@@ -1,0 +1,1 @@
+export * from './GameScoreboardHeader.style';

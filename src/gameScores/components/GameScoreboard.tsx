@@ -1,7 +1,8 @@
+import { Paper } from '@mui/material';
 import * as React from 'react';
 
 export const GameScoreboard = (): React.ReactElement => {
     return (
-        <>Game Scoreboard</>
+        <Paper>GameScoreboard</Paper>
     )
-}
+} 
